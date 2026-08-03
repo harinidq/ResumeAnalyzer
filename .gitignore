@@ -1,0 +1,10 @@
+backend/__pycache__/
+*.pyc
+
+vector_store/
+
+uploads/
+
+.venv/
+venv/
+.env

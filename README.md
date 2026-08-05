@@ -29,10 +29,19 @@ An AI-powered Resume Analyzer built using FastAPI, LangChain, FAISS, Sentence Tr
 ResumeAnalyzer/
 │
 ├── backend/
+│   ├── main.py
+│   ├── rag.py
+│   └── llm.py
+│
 ├── frontend/
+│   └── app.py
+│
+├── uploads/
+├── vector_store/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 

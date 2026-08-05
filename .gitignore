@@ -1,10 +1,29 @@
-backend/__pycache__/
+# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-vector_store/
-
-uploads/
-
+# Virtual Environments
 .venv/
 venv/
+
+# Environment Variables
 .env
+
+# Generated Data
+uploads/
+vector_store/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db

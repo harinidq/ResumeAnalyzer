@@ -25,6 +25,7 @@ An AI-powered Resume Analyzer built using FastAPI, LangChain, FAISS, Sentence Tr
 
 ## 📂 Project Structure
 
+```text
 ResumeAnalyzer/
 │
 ├── backend/
@@ -33,6 +34,7 @@ ResumeAnalyzer/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+```
 
 ## ▶️ Run Locally
 
